@@ -1,4 +1,4 @@
-                              🕒 Digital Clock using Python Tkinter
+                                                 🕒 Digital Clock using Python Tkinter
 
 A simple **Digital Clock** application built using **Python** and **Tkinter**. The application displays the current system time in real time and updates every second using Tkinter's `after()` method.
 

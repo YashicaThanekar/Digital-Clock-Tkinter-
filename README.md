@@ -13,6 +13,6 @@ A simple **Digital Clock** application built using **Python** and **Tkinter**. T
 * Python 3
 * Tkinter
 
-## 📸 Screenshot
+👩‍💻 Author Yashica Thanekar
 
 
